@@ -29,7 +29,4 @@ In the end, this project shows what happens when tech and creativity come togeth
 4. **Predict Genre**
 
 
-# Link for Google Colab
-
-[Jupyter Notebook Link](https://colab.research.google.com/drive/1wKWCa-5M9cFKCZLNytefnS1fllwO9c2z?usp=sharing)
     
